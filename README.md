@@ -27,7 +27,9 @@ These activity are -
 
 
 To train and test the model use ==> modeling_action.R
+
 To test the activity ==> source("testing.R")
+                         
                          action_test(inputdata,model_path)
                          
                          where inputdata -->activity feature vector  
